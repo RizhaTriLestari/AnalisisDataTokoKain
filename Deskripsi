@@ -70,7 +70,6 @@ INTERPRETASI :
 Dalam diagram scatter yang dihasilkan, setiap titik merepresentasikan satu barang dalam persediaan yang memiliki saldo akhir di bawah 10. Sumbu x menunjukkan nama barang, sementara sumbu y menunjukkan saldo akhir.
 Dengan menggunakan scatter plot, kita dapat dengan cepat melihat persebaran persediaan kritis di antara berbagai barang. Titik-titik yang lebih tinggi di sumbu y menunjukkan barang-barang dengan saldo akhir yang lebih rendah, sedangkan titik-titik yang lebih rendah menunjukkan barang-barang dengan saldo akhir yang lebih tinggi. 
 Dengan menggunakan warna merah untuk menyoroti titik-titik ini, kita dapat dengan mudah mengidentifikasi barang-barang yang memerlukan perhatian lebih karena persediaannya dalam kondisi kritis.
-Scatter plot ini membantu kita dalam memvisualisasikan distribusi persediaan kritis secara relatif terhadap saldo akhir untuk setiap barang. Hal ini memungkinkan manajer toko untuk mengidentifikasi barang-barang yang perlu diprioritaskan dalam pengelolaan persediaan guna menghindari kekurangan barang yang dapat mengganggu operasional toko.
 
 **KASUS 3**
 
